@@ -7,6 +7,6 @@ setup(
     url='https://github.com/thefyk/django-redshift',
     author='Michael Fyk',
     author_email='michael.fyk@vizio.com',
-    py_modules=find_packages()
+    py_modules=find_packages(),
     packages=find_packages()
 )
